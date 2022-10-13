@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MiinaMagdy
+- 👋 Hi, I’m Mina Magdy
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Git & GitHub
-- 💞️ I’m looking to collaborate on Hacktoberfest-repos
+- 💞️ I’m looking to collaborate on DSA
 - 📫 How to reach me anywhere
 
 **Hacktoberfest Badges**
