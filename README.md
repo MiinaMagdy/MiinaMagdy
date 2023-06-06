@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ![badge](https://kounter.tk/badge/Mina%20Magdy)
-- 👀 I’m interested in ![badge](https://kounter.tk/badge/Competitive%20Programming?color=blue)
-- 🌱 I’m currently learning ![badge](https://kounter.tk/badge/JAVA?color=yellow)
-- 💞️ I’m looking to collaborate on ![badge](https://kounter.tk/badge/DSA?color=cyan)
-- 📫 How to reach me anywhere
+- 👋 Hi, I’m Mina Magdy
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on a simple webpage
+- 📫 How to reach me mina.magdy.takawey@gmail.com
 
 **Hacktoberfest Badges**
 
