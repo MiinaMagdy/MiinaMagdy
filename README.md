@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Mina Magdy
+# Hello there 👋
+
+**Mina Magdy**
+<img align="right" src="https://t.ly/9vI4"/>
+
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a simple webpage
