@@ -1,7 +1,7 @@
 # Hello there 👋
 
 **Mina Magdy**
-<img align="right" src="https://t.ly/9vI4"/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MiinaMagdy&color=blueviolet&style=plastic" alt="Mina Magdy" /> </p>
 
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning JavaScript
