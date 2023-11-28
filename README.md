@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MiinaMagdy&color=blueviolet&style=plastic" alt="Mina Magdy" /> </p>
 
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on a simple webpage
 - 📫 How to reach me mina.magdy.takawey@gmail.com
 
