@@ -1,8 +1,10 @@
 ## Hey 👋, I'm <a href="/#">Mina Magdy</a>
 
-As a senior computer science student at Suez Canal University, I have consistently excelled in my academic journey. 👀 passionate about competitive programming and problem-solving with C++. I am deeply immersed in the world of backend development. 🌱 I have a special affinity for JavaScript and have chosen to master Node.js, currently utilizing it in my graduation project alongside Express.js and MongoDB. 🚀
-
-My interests extend to the realm of mathematics like [Combinatorics](https://github.com/MiinaMagdy/Combinatorics) and [Geometry](https://github.com/MiinaMagdy/Geometry). I actively contribute to open source, 💞️ collaborate on backend projects, and find joy in daily LeetCode challenges. Always eager to learn and share knowledge! 💡👩‍💻
+- 👀 As a senior computer science student at Suez Canal University, I have consistently excelled in my academic journey.
+- 💻 Passionate about competitive programming and problem-solving with C++.
+- 🌱 I am deeply immersed in the world of backend development, I have a special affinity for JavaScript and have chosen to master Node.js, 🚀 currently utilizing it in my graduation project alongside Express.js and MongoDB. 
+- 🧮 My interests extend to the realm of mathematics like [Combinatorics](https://github.com/MiinaMagdy/Combinatorics) and [Geometry](https://github.com/MiinaMagdy/Geometry) (👈️ Check my blogs).
+- 💞️ I actively contribute to open source, collaborate on backend projects, and find joy in daily LeetCode challenges. Always eager to learn and share knowledge! 💡👩‍💻
 
 ### Hacktoberfest Badges
 
