@@ -1,6 +1,6 @@
 ## Hey 👋, I'm <a href="/#">Mina Magdy</a>
 
-- 👀 As a senior computer science student at Suez Canal University, I have consistently excelled in my academic journey.
+- 👀 As a graduate of Computer Science from Suez Canal University, I have consistently excelled academically, achieving the top position in my department and ranking 5th overall in my graduating class.
 - 💻 Passionate about competitive programming and problem-solving with C++.
 - 🌱 I am deeply immersed in the world of backend development, I have a special affinity for JavaScript and have chosen to master Node.js, 🚀 currently utilizing it in my graduation project alongside Express.js and MongoDB. 
 - 🧮 My interests extend to the realm of mathematics like [Combinatorics](https://github.com/MiinaMagdy/Combinatorics) and [Geometry](https://github.com/MiinaMagdy/Geometry) (👈️ Check my blogs).
