@@ -8,10 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=MiinaMagdy&color=blueviolet&style=plastic" alt="Mina Magdy" />
 
-### My Techar
-
-![My Techar](https://techar.fly.dev/api/v1/characters/MiinaMagdy/card.png)
-
 ### Hacktoberfest Badges
 
 [![@minamagdy's Holopin board](https://holopin.io/api/user/board?user=minamagdy)](https://holopin.io/@minamagdy)
